@@ -63,6 +63,33 @@ quantidade de um produto (significa que o estoque foi recarregado).
 
 <h3>Imagem das telas</h3>
 
+<div>
+ <p>Tela de carregamento: </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/9966c543-0074-4df8-9d9f-0f5a4f7d49cf" width=330px>
+ <p>Tela inicial: </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/0721580f-814e-4cff-9574-2c1dbc179202" width=330px>
+ <p>Tela de cadastro: </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/a6b505a2-3721-463c-a31c-34e3e987ccdf" width=330px>
+ <p>Tela de compras (cliente): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/e9f73735-b271-421b-bd92-9bd1ebdd7043" width=330px>
+ <p>Tela do carrinho (cliente): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/4f6b1aa9-1b16-4d07-8a94-6f02bbf73256" width=330px>
+ <p>Tela da finalização da compra (cliente): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/945b7f75-f8d7-4da7-85a8-f1e3a76106ea" width=330px>
+  <p>Tela do perfil (cliente): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/9334f8d7-3d54-4712-bf2e-b18c0f2150ad" width=330px>
+  <p>Tela do relatório (cliente): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/b11429b4-08bb-47e4-977c-3095908ba9b7" width=330px>
+ <p>Tela das categorias (admin): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/4ebd0f98-2818-4af5-ad68-bb1308ad6827" width=330px>
+ <p>Tela dos produtos (admin): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/dc5e91d3-a937-46ab-8d60-405c71838cf3" width=330px>
+ <p>Tela do perfil (admin): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/1dc8767b-bd18-4bbf-bbdc-f9bf42679a46" width=330px>
+ <p>Tela do relatório (admin): </p>
+ <img src="https://github.com/LayzaCarneiro/POO-InterfaceGrafica/assets/110754646/01281eb8-196a-4b50-ac09-cef2f65ecc4c" width=330px>
+
+</div>
 
 ##
 
